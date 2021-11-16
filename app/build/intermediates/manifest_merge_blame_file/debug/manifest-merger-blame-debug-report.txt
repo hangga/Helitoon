@@ -1,0 +1,54 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hangga.helitoon"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:7:5-9:41
+8        android:minSdkVersion="19"
+8-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:8:9-34
+9        android:targetSdkVersion="30" />
+9-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:9:9-38
+10
+11    <application
+11-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:11:5-29:19
+12        android:allowBackup="true"
+12-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:12:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/704168206db443cc6a8404f53cd4e417/core-1.0.0/AndroidManifest.xml:22:18-86
+14        android:debuggable="true"
+15        android:icon="@drawable/ic_launcher"
+15-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:13:9-45
+16        android:label="@string/app_name"
+16-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:14:9-41
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:15:9-40
+19        <activity
+19-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:16:9-24:20
+20            android:name="com.hangga.helitoon.MainMenuActivity"
+20-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:17:13-64
+21            android:label="@string/app_name" >
+21-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:18:13-45
+22            <intent-filter>
+22-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:19:13-23:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:20:17-69
+23-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:20:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:22:17-77
+25-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:22:27-74
+26            </intent-filter>
+27        </activity>
+28        <activity
+28-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:25:9-28:20
+29            android:name="com.hangga.helitoon.MainActivity"
+29-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:26:13-60
+30            android:label="@string/title_activity_main" >
+30-->/Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:27:13-56
+31        </activity>
+32    </application>
+33
+34</manifest>

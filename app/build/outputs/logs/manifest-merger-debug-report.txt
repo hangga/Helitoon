@@ -1,59 +1,159 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:2:1-31:12
-	xmlns:android
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:2:11-69
+ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/233f29e05d3f62c91d94717ecf57158d/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/240b03f5975b1df36610d723eab46265/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/1e1f894f3187e0e4737e7e00626d423c/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/939487120f8beb920a58dc41bbe9f02a/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/359a50d098d5826e3b063aef4f5919f4/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/b913b577636afb646741ffd904028e15/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/1e3214591e5f847e6b5b2333c34f548f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/c957036829a0bfc56e2a531c675b44e2/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/818f45328ee8f5b99bad88c27c6cc009/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/b9a8ccdf08677e6ebe8a29448e9bae04/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/e1c1a328fa5c525d8a813cf3d0ad18ce/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/9bcad8df747e7e541c668492e993a22d/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/7430e01f2c6ea8ff3578619715c15e18/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/3438716bbde0c4ae93b6b3ca42413f5c/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/a4aa212df090916fdc5167a61460eb35/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/d7ef7342eb80ff707691a83b9012e6a9/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/704168206db443cc6a8404f53cd4e417/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/34741137234e1c5c22970a0a3b0c3fd3/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/9f5395c9e2c4a1a11a43e64f5d81258c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/9b615267ab01aab8f9f5ed2bdc1c6d21/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/815bb9272ee789daabc21bc15b42e2c3/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/b93e2b8a7319b8231fdc1936a598b860/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/f8503f66578d12caa389b09e1e5eca48/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/a81ff3a6f4fe4cdba627ce49c2369465/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/0fae1921ea392fcf1099ebc521d9f280/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/e3a7d3b723deff8b2b903c0665652c62/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/c9ce6976a0ee114a7df6a78a9d188526/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/750b7b3e6ba5087b346f6e90470bbb4c/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:3:5-34
-		INJECTED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml
-		INJECTED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:5:5-30
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml
-		INJECTED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml
 uses-sdk
-ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:19.1.0] /home/hangga/AndroidstudioProjects/helitoon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:18:5-42
+ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/233f29e05d3f62c91d94717ecf57158d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/233f29e05d3f62c91d94717ecf57158d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/240b03f5975b1df36610d723eab46265/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/240b03f5975b1df36610d723eab46265/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/1e1f894f3187e0e4737e7e00626d423c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/1e1f894f3187e0e4737e7e00626d423c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/939487120f8beb920a58dc41bbe9f02a/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/939487120f8beb920a58dc41bbe9f02a/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/359a50d098d5826e3b063aef4f5919f4/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/359a50d098d5826e3b063aef4f5919f4/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/b913b577636afb646741ffd904028e15/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/b913b577636afb646741ffd904028e15/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/1e3214591e5f847e6b5b2333c34f548f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/1e3214591e5f847e6b5b2333c34f548f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/c957036829a0bfc56e2a531c675b44e2/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/c957036829a0bfc56e2a531c675b44e2/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/818f45328ee8f5b99bad88c27c6cc009/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/818f45328ee8f5b99bad88c27c6cc009/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/b9a8ccdf08677e6ebe8a29448e9bae04/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/b9a8ccdf08677e6ebe8a29448e9bae04/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/e1c1a328fa5c525d8a813cf3d0ad18ce/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/e1c1a328fa5c525d8a813cf3d0ad18ce/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/9bcad8df747e7e541c668492e993a22d/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/9bcad8df747e7e541c668492e993a22d/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/7430e01f2c6ea8ff3578619715c15e18/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/7430e01f2c6ea8ff3578619715c15e18/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/3438716bbde0c4ae93b6b3ca42413f5c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/3438716bbde0c4ae93b6b3ca42413f5c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/a4aa212df090916fdc5167a61460eb35/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/a4aa212df090916fdc5167a61460eb35/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/d7ef7342eb80ff707691a83b9012e6a9/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/d7ef7342eb80ff707691a83b9012e6a9/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/704168206db443cc6a8404f53cd4e417/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/704168206db443cc6a8404f53cd4e417/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/34741137234e1c5c22970a0a3b0c3fd3/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/34741137234e1c5c22970a0a3b0c3fd3/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/9f5395c9e2c4a1a11a43e64f5d81258c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/9f5395c9e2c4a1a11a43e64f5d81258c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/9b615267ab01aab8f9f5ed2bdc1c6d21/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/9b615267ab01aab8f9f5ed2bdc1c6d21/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/815bb9272ee789daabc21bc15b42e2c3/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/815bb9272ee789daabc21bc15b42e2c3/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/b93e2b8a7319b8231fdc1936a598b860/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/b93e2b8a7319b8231fdc1936a598b860/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/f8503f66578d12caa389b09e1e5eca48/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/f8503f66578d12caa389b09e1e5eca48/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/a81ff3a6f4fe4cdba627ce49c2369465/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/a81ff3a6f4fe4cdba627ce49c2369465/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/0fae1921ea392fcf1099ebc521d9f280/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/0fae1921ea392fcf1099ebc521d9f280/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/e3a7d3b723deff8b2b903c0665652c62/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/e3a7d3b723deff8b2b903c0665652c62/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/c9ce6976a0ee114a7df6a78a9d188526/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/c9ce6976a0ee114a7df6a78a9d188526/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/750b7b3e6ba5087b346f6e90470bbb4c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/750b7b3e6ba5087b346f6e90470bbb4c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml
-		INJECTED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:8:9-34
-		INJECTED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml
-		INJECTED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:11:5-29:19
-MERGED from [com.android.support:appcompat-v7:19.1.0] /home/hangga/AndroidstudioProjects/helitoon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:19:5-20
+ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:11:5-29:19
+MERGED from [androidx.core:core:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/704168206db443cc6a8404f53cd4e417/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/704168206db443cc6a8404f53cd4e417/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/34741137234e1c5c22970a0a3b0c3fd3/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/34741137234e1c5c22970a0a3b0c3fd3/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/hanggaajisayekti/.gradle/caches/transforms-2/files-2.1/704168206db443cc6a8404f53cd4e417/core-1.0.0/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:14:9-41
-	android:allowBackup
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:14:9-41
 	android:icon
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:13:9-45
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:15:9-40
 activity#com.hangga.helitoon.MainMenuActivity
-ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:16:9-24:20
+ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:16:9-24:20
 	android:label
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:18:13-45
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:18:13-45
 	android:name
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:17:13-64
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:19:13-23:29
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:17:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:22:27-74
 activity#com.hangga.helitoon.MainActivity
-ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:25:9-28:20
+ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:25:9-28:20
 	android:label
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:27:13-56
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:27:13-56
 	android:name
-		ADDED from /home/hangga/AndroidstudioProjects/helitoon/app/src/main/AndroidManifest.xml:26:13-60
+		ADDED from /Volumes/DATA/Android/Helitoon/app/src/main/AndroidManifest.xml:26:13-60

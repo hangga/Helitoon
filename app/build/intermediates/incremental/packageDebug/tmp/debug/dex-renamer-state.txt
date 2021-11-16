@@ -1,0 +1,4 @@
+#Tue Nov 16 14:24:58 WIB 2021
+base.0=/Volumes/DATA/Android/Helitoon/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

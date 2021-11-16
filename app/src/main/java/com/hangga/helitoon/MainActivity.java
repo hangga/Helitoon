@@ -1,8 +1,6 @@
 package com.hangga.helitoon;
 
-import android.app.ActionBar;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MotionEvent;
@@ -10,13 +8,14 @@ import android.view.View;
 import android.view.View.OnTouchListener;
 import android.widget.Button;
 import android.widget.RelativeLayout.LayoutParams;
+import androidx.appcompat.app.AppCompatActivity;
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
 
 	private Hero ahero;
 	private Button btnUp, btnDown;
 	
-	private android.support.v7.app.ActionBar mActionBar;
+	private androidx.appcompat.app.ActionBar mActionBar;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

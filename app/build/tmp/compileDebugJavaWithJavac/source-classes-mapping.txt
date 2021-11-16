@@ -1,0 +1,10 @@
+com/hangga/helitoon/Hero.java
+ com.hangga.helitoon.Hero
+com/hangga/helitoon/MainActivity.java
+ com.hangga.helitoon.MainActivity
+ com.hangga.helitoon.MainActivity$1
+com/hangga/helitoon/MainMenuActivity.java
+ com.hangga.helitoon.MainMenuActivity
+ com.hangga.helitoon.MainMenuActivity$1
+com/hangga/helitoon/BuildConfig.java
+ com.hangga.helitoon.BuildConfig
